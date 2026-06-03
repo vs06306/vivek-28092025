@@ -1,2 +1,2 @@
-GitBranch
-gitlog
+LOG validation
+Git learning
